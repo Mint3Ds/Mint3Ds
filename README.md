@@ -22,8 +22,6 @@ You can reach me via my [LinkedIn](https://www.linkedin.com/in/min-pyae-phyo/)!
 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 <!--
 **Mint3Ds/Mint3Ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
